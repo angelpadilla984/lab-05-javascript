@@ -1,9 +1,1 @@
-<!DOCTYPE html>
-<html>
-<body>
-<script>
-// oops... there's an error here
-console.log("HELLO WORLD!"
-</script>
-</body>
-</html>
+
